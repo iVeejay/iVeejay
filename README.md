@@ -5,6 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-hamedgolizadeh1382%40gmail.com-c14438?logo=gmail)](mailto:hamedgolizadeh1382@gmail.com)  
 [![Telegram](https://img.shields.io/badge/Telegram-@iveejays-0088cc?logo=telegram)](https://t.me/iveejays)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord)](https://discord.com/invite/6VkyJZaWwF)
+[![Open to Hire](https://img.shields.io/badge/Open_to_Hire-Yes-brightgreen.svg)](mailto:hamedgolizadeh1382@gmail.com)
 
 ---
 
